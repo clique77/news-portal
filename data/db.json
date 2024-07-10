@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "fist-name": "admin",
+      "last-name": "admin",
+      "password": "admin",
+      "username": "amdin",
+      "email": "admin@gmail.com",
+      "id": "1"
+    },
+    {
+      "id": "4791",
+      "username": "clique",
+      "email": "kirilkulikoff@gmail.com",
+      "password": "kuzyakuzya228123"
+    },
+    {
+      "id": "83a2",
+      "username": "awdawdawdwd",
+      "email": "adwawdwadawdawdawd@",
+      "password": "123123"
+    },
+    {
+      "id": "dd88",
+      "username": "clique123123",
+      "email": "clique123123@gmail.com",
+      "password": "123123"
+    }
+  ]
+}
